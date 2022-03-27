@@ -8,6 +8,9 @@ Group Final Project Repo
 - Amy Swanson
 - Stephanie VanLeishout
 
+## Team Communication Plan
+
+
 ## Questions
 ### Question 1
 ### Question 2
