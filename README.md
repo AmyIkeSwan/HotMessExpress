@@ -12,6 +12,18 @@ Group Final Project Repo
 ### Lesson 1 Get to Know Your Team
 https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Lesson1_HandsOn_KnowYourTeam.zip
 
+### Weekly Zoom Meeting Link
+https://unthsc.zoom.us/j/82134109717
+
+#### March 6, 2022 Recording
+https://unthsc.zoom.us/rec/share/oof4KI0FoEHzXI7TjXllnxobGhldWno_R1AwhJo-Tp3h3g9Sc8qhImLKZRReuoEQ.lALO5UURvoKFlpgY?startTime=1646608184000 (Passcode: 0PQyZ^@w)
+#### March 14, 2022 Recording
+https://unthsc.zoom.us/rec/share/5p3d0nT3ve5H1a83wmCZ4J2WQ8fyal1bywPQDYtegWC_yHp31tLV3-92eEcKgCkZ.d66Yy2hrEa1hcUox?startTime=1647295914000 (Passcode: mE^+GL!6)
+#### March 20, 2022 Recording
+https://unthsc.zoom.us/rec/share/Ane7UM6Zz_t-wdP4iAuEIPlf_HJiyUBEtm4d1chDzEqAl8HBR40pwIDbqObmLLE.kvBLX084L6D0W38r?startTime=1647806726000 (Passcode: wy1*QtCa)
+#### March 27, 2022 Recording
+In process
+
 ## Questions
 ### Question 1
 ### Question 2
