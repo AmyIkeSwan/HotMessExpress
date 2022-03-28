@@ -9,7 +9,8 @@ Group Final Project Repo
 - Stephanie VanLeishout
 
 ## Team Communication Plan
-
+- Lesson 1 Get to Know Your Team
+- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Lesson1_HandsOn_KnowYourTeam.zip
 
 ## Questions
 ### Question 1
