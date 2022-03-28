@@ -16,7 +16,10 @@ https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Le
 
 ### Meeting Notes (see Team Weekly Meetings section)
 
-## Questions
+## Hot Mess Kanban
+https://github.com/AmyIkeSwan/HotMessExpress/projects/1
+
+## Questions our Team will be addressing
 ### Question 1
 ### Question 2
 ### Question 3
