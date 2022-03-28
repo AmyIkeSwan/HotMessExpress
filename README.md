@@ -28,6 +28,8 @@ https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Le
 ## Data Visualization
 
 ## Data Analyses
+### Lesson 1 Data Analysis Plan
+https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Lesson1_AnalysisPlanWksht.zip
 
 ## Interpretations
 
