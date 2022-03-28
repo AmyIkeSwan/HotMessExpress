@@ -1,6 +1,8 @@
 # HotMessExpress
 Group Final Project Repo
 
+![image](https://user-images.githubusercontent.com/91350305/160309156-0bad034a-b369-495b-951c-5238b19f22da.png)
+
 ## Team Members
 - Samantha Diaz
 - Destiny Riley
