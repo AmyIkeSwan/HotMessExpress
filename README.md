@@ -21,7 +21,8 @@ Group Final Project Repo
 
 
 ## Team Resources
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links
+- Resource for Updating README.md on GitHub
+-  https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links
 
 ## Team Weekly Meetings
 
