@@ -66,7 +66,7 @@ https://unthsc.zoom.us/rec/share/Ane7UM6Zz_t-wdP4iAuEIPlf_HJiyUBEtm4d1chDzEqAl8H
 
 ### Week 4
 #### March 27, 2022 Recording
-In process
+https://unthsc.zoom.us/rec/share/H_ocAcu1asarzGIgZokDMKBilQ_mS9siQ5C6OFIjWsf007Mz6UqfjNrc3w5vNGb9.gDC_0FgRi7cCTzMJ?startTime=1648421765000 (Passcode: ZwYx!93J)
 #### Summary Documents
 - https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Lesson%203%20Summary%20Document.zip
 - https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Eternals%20Lesson%203%20Summary%20%26%20Code.zip
