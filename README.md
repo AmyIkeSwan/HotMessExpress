@@ -9,8 +9,8 @@ Group Final Project Repo
 - Stephanie VanLeishout
 
 ## Team Communication Plan
-- Lesson 1 Get to Know Your Team
-- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Lesson1_HandsOn_KnowYourTeam.zip
+### Lesson 1 Get to Know Your Team
+https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Lesson1_HandsOn_KnowYourTeam.zip
 
 ## Questions
 ### Question 1
@@ -21,6 +21,7 @@ Group Final Project Repo
 
 
 ## Team Resources
+### Resource for Updating README.md on GitHub
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links
 
 ## Team Weekly Meetings
