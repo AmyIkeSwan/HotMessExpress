@@ -19,15 +19,37 @@ https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Le
 
 ## Dataset(s)
 
+## Data Wrangling
+
+## Data Visualization
+
+## Data Analyses
+
+## Interpretations
+
+## Presentation and Summary 
 
 ## Team Resources
 ### Resource for Updating README.md on GitHub
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links
 
 ## Team Weekly Meetings
+Weekly Zoom meeting link: https://unthsc.zoom.us/j/82134109717
+### Week 1
 
+### Week 2
 
-## Daily stand-up
+### Week 3
+
+### Week 4
+
+### Week 5
+
+### Week 6
+
+### Week 7
+
+## Additional notes that don't fit above in a category
 ### Amy
 - All collaborators added
 - Second time is the charm, please clone this repository by clicking the green code button button.
