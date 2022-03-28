@@ -34,5 +34,6 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 - 2022-03-27 I accepted invite and cloned the new repository
 
 ### Destiny
+- 2022-03-27 - Drafted and uploaded Summary document for L3
 
 ### Sam
