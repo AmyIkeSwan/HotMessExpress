@@ -55,21 +55,21 @@ https://unthsc.zoom.us/rec/share/oof4KI0FoEHzXI7TjXllnxobGhldWno_R1AwhJo-Tp3h3g9
 #### March 14, 2022 Recording
 https://unthsc.zoom.us/rec/share/5p3d0nT3ve5H1a83wmCZ4J2WQ8fyal1bywPQDYtegWC_yHp31tLV3-92eEcKgCkZ.d66Yy2hrEa1hcUox?startTime=1647295914000 (Passcode: mE^+GL!6)
 #### Summary Documents
-https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Eternals%20Meeting%20Minutes%20-%203.14.zip
+- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Eternals%20Meeting%20Minutes%20-%203.14.zip
 
 ### Week 3
 #### March 20, 2022 Recording
 https://unthsc.zoom.us/rec/share/Ane7UM6Zz_t-wdP4iAuEIPlf_HJiyUBEtm4d1chDzEqAl8HBR40pwIDbqObmLLE.kvBLX084L6D0W38r?startTime=1647806726000 (Passcode: wy1*QtCa)
 #### Summary Documents
-https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Notes%20for%20Data%20Wrangling%20Meeting%203_20_22.zip
-https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Lesson2.zip
+- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Notes%20for%20Data%20Wrangling%20Meeting%203_20_22.zip
+- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Lesson2.zip
 
 ### Week 4
 #### March 27, 2022 Recording
 In process
 #### Summary Documents
-https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Lesson%203%20Summary%20Document.zip
-https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Eternals%20Lesson%203%20Summary%20%26%20Code.zip
+- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Lesson%203%20Summary%20Document.zip
+- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Eternals%20Lesson%203%20Summary%20%26%20Code.zip
 
 ### Week 5
 #### April
