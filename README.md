@@ -44,10 +44,19 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
 ### Notes regarding dropped data rows
 - Exclusion: Individuals who did not complete all three TBLs
 - Exclusion: Teams who did not complete all three TBLs
+- Exclusion: Students who did not complete the Introversion-Extroversion scale
  
 ### Notes regarding final variables
+- UID: unique identification for each student
+- Group: group number student was assigned to for TBL activities
+- TBL#_iRAT: score student earned on the Indivdiual Readiness Assurance Test (iRAT) for the specified TBL # (e.g., TBL1_iRAT = iRAT score for TBL 1)
+- TBL#_tRAT: score team earned on the Team Readiness Assurance Test (tRAT) for the specified TBL # (e.g., TBL1_tRAT = tRAT score for TBL 1). The score is the same for all team members on a Team
+- TBL#_TeamRating: sum total of the team-rated rubric for team performance during the TBL activity for the specified TBL # (e.g., TBL1_TeamRating = total score for team-rated rubric for TBL 1)
+- Sum_Introversion: total introversion score on the self-reported introversion-extroversion scale. Higher scores = greater introversion tendencies
+- Sum_Extroversion: total extroversion score on the self-reported introversion-extroversion scale. Higher scores = greater extroversion tendencies
 
 ## Data Visualization
+
 
 ## Data Analyses
 ### Lesson 1 Data Analysis Plan
