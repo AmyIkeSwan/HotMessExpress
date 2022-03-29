@@ -41,11 +41,13 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
 - Important note regarding raw dataset: 9999 = Missing (data missing due to failure to submit work)
 
 ## Data Wrangling
-### Notes regarding dropped data rows
+### Inclusion/Exclusion criteria
 - Exclusion: Individuals who did not complete all three TBLs
 - Exclusion: Teams who did not complete all three TBLs
 - Exclusion: Students who did not complete the Introversion-Extroversion scale
- 
+
+### Notes regarding dropped data rows
+
 ### Notes regarding final variables
 - UID: unique identification for each student
 - Cohort: year student began the one-year program (2019, 2020, 2021)
