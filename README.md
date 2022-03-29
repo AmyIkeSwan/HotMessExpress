@@ -48,6 +48,7 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
  
 ### Notes regarding final variables
 - UID: unique identification for each student
+- Cohort: year student began the one-year program (2019, 2020, 2021)
 - Group: group number student was assigned to for TBL activities
 - TBL#_iRAT: score student earned on the Indivdiual Readiness Assurance Test (iRAT) for the specified TBL # (e.g., TBL1_iRAT = iRAT score for TBL 1)
 - TBL#_tRAT: score team earned on the Team Readiness Assurance Test (tRAT) for the specified TBL # (e.g., TBL1_tRAT = tRAT score for TBL 1). The score is the same for all team members on a Team
