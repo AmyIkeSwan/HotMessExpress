@@ -27,6 +27,9 @@ https://github.com/AmyIkeSwan/HotMessExpress/projects/1
 ## Dataset(s)
 
 ## Data Wrangling
+### Notes regarding dropped data rows
+
+### Notes regarding final variables
 
 ## Data Visualization
 
