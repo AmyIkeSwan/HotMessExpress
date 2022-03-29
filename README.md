@@ -47,7 +47,8 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
 - Exclusion: Students who did not complete the Introversion-Extroversion scale
 
 ### Notes regarding dropped data rows
-
+- Rows removed from dataset based on the above exclusion criteria
+- 
 ### Notes regarding final variables
 - UID: unique identification for each student
 - Cohort: year student began the one-year program (2019, 2020, 2021)
