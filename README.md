@@ -20,15 +20,47 @@ https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Le
 https://github.com/AmyIkeSwan/HotMessExpress/projects/1
 
 ## Questions our Team will be addressing
+### Variables
+- Independent variable: cohort (3 cohorts: pre, during, and post COVID)
+- Dependent variables: Students engaged in 4 Team-Based Learning (TBL) activities during their first semester. Data from the first 3 TBLs will be used (iRAT scores, tRAT scores, Team Ratings on performance).
+- Covariate variables: self-reported data on introversion and extroversion will also be used as covariates. 
+
+### Overall objective
+Determine if the pandemic and subsequent quarantine impacted the academic performance for medical science students.
+
 ### Question 1
+Did the pandemic and subsequent quarantine impact individual academic performance for medical science students?
 ### Question 2
+Did the pandemic and subsequent quarantine impact team academic performance for medical science students?
 ### Question 3
+Did the pandemic and subsequent quarantine impact team dynamics during academic activities for medical science students?
 
 ## Dataset(s)
+- Dataset is from graduate medical science students attending during the academic years 2019-2021.
+- Important note regarding raw dataset: 7999 = Legitimate Skip (data missing due to an excused absence)
+- Important note regarding raw dataset: 9999 = Missing (data missing due to failure to submit work)
 
 ## Data Wrangling
+### Inclusion/Exclusion criteria
+- Exclusion: Individuals who did not complete all three TBLs
+- Exclusion: Teams who did not complete all three TBLs
+- Exclusion: Students who did not complete the Introversion-Extroversion scale
+
+### Notes regarding dropped data rows
+- Rows removed from dataset based on the above exclusion criteria
+- 
+### Notes regarding final variables
+- UID: unique identification for each student
+- Cohort: year student began the one-year program (2019, 2020, 2021)
+- Group: group number student was assigned to for TBL activities
+- TBL#_iRAT: score student earned on the Indivdiual Readiness Assurance Test (iRAT) for the specified TBL # (e.g., TBL1_iRAT = iRAT score for TBL 1)
+- TBL#_tRAT: score team earned on the Team Readiness Assurance Test (tRAT) for the specified TBL # (e.g., TBL1_tRAT = tRAT score for TBL 1). The score is the same for all team members on a Team
+- TBL#_TeamRating: sum total of the team-rated rubric for team performance during the TBL activity for the specified TBL # (e.g., TBL1_TeamRating = total score for team-rated rubric for TBL 1)
+- Sum_Introversion: total introversion score on the self-reported introversion-extroversion scale. Higher scores = greater introversion tendencies
+- Sum_Extroversion: total extroversion score on the self-reported introversion-extroversion scale. Higher scores = greater extroversion tendencies
 
 ## Data Visualization
+
 
 ## Data Analyses
 ### Lesson 1 Data Analysis Plan
