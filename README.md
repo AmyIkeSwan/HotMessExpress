@@ -40,10 +40,20 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
 - Important note regarding raw dataset: 7999 = Legitimate Skip (data missing due to an excused absence)
 - Important note regarding raw dataset: 9999 = Missing (data missing due to failure to submit work)
 
+### Notes on data cleaning and links to final clean datasets
+#### Data cleaning notes
+- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/data/1_Data_Clean/datawranglingNotes.ipynb
+
+#### Datasets
+- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/data/1_Data_Clean/f2fMerged_clean.csv
+- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/data/1_Data_Clean/f2fTeamRatings_TBL1_TBL3_clean.csv
+- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/data/1_Data_Clean/f2fTeamRatings_allTBLs_clean.csv
+
+
 ## Data Wrangling
 ### Inclusion/Exclusion criteria
 - Exclusion: Individuals who did not complete all three TBLs
-- Exclusion: Teams who did not complete all three TBLs
+- Exclusion: Teams who did not complete TBLs 1 and 3 (for difference scores)
 - Exclusion: Students who did not complete the Introversion-Extroversion scale
 
 ### Notes regarding dropped data rows
@@ -51,13 +61,23 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
 - 
 ### Notes regarding final variables
 - UID: unique identification for each student
+- TeamUID: unique identification for each Team by Cohort (e.g., 201901 = Cohort 2019, Team 01)
 - Cohort: year student began the one-year program (2019, 2020, 2021)
 - Group: group number student was assigned to for TBL activities
 - TBL#_iRAT: score student earned on the Indivdiual Readiness Assurance Test (iRAT) for the specified TBL # (e.g., TBL1_iRAT = iRAT score for TBL 1)
 - TBL#_tRAT: score team earned on the Team Readiness Assurance Test (tRAT) for the specified TBL # (e.g., TBL1_tRAT = tRAT score for TBL 1). The score is the same for all team members on a Team
-- TBL#_TeamRating: sum total of the team-rated rubric for team performance during the TBL activity for the specified TBL # (e.g., TBL1_TeamRating = total score for team-rated rubric for TBL 1)
+- TBL#_TeamRating: sum total of the team-rated rubric for team performance during the TBL activity for the specified TBL # (e.g., TBL1_TeamRating = total score for team-rated rubric for TBL 1). Scale is 0-20.
+- TBL#_1_Engagement: Team-reported competency on Skill 1 - Engagement on the Team Rubric (scale 0-4)
+- TBL#_2_Conflict: Team-reported competency on Skill 2 - Conflict on the Team Rubric (scale 0-4)
+- TBL#_3_Roles: Team-reported competency on Skill 3 - Roles on the Team Rubric (scale 0-4)
+- TBL#_4_DecisionMkg: Team-reported competency on Skill 4 - Decision Making on the Team Rubric (scale 0-4)
+- TBL#_5_Planning: Team-reported competency on Skill 5 - Planning on the Team Rubric (scale 0-4)
+- TBL1_TBL3_diff: difference score between TBL1 and TBL 3 Team Ratings (TBL3 - TBL 1). Positive means increase in rating. Negative means decrease in rating.
+- TBL1_TBL3_#_diff: difference score between TBL1 and TBL 3 Team Ratings (TBL3 - TBL 1) for each of the 5 competency skills (Engagement, Conflict, Roles, Decision Making, and Planning). Positive means increase in rating. Negative means decrease in rating.
 - Sum_Introversion: total introversion score on the self-reported introversion-extroversion scale. Higher scores = greater introversion tendencies
 - Sum_Extroversion: total extroversion score on the self-reported introversion-extroversion scale. Higher scores = greater extroversion tendencies
+- Mean_Introversion: mean introversion score on the self-reported introversion-extroversion scale for each Team by Cohort. 
+- Mean_Extroversion: mean extroversion score on the self-reported introversion-extroversion scale for each Team by Cohort. 
 
 ## Data Visualization
 
