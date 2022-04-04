@@ -125,7 +125,10 @@ https://unthsc.zoom.us/rec/share/H_ocAcu1asarzGIgZokDMKBilQ_mS9siQ5C6OFIjWsf007M
 - https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Eternals%20Lesson%203%20Summary%20%26%20Code.zip
 
 ### Week 5
-#### April
+#### April 3, 2022 Recording
+https://unthsc.zoom.us/rec/share/5HjQ7X3xJjX2YJNoL91nfJ38RGuRqKfhvK4bRbESDLjRyKsaNMisDY7mV3uvqTkP.5llQV5ufRVqDPi22?startTime=1649028885000 (Passcode: ?W0jpd8b)
+#### Summary Documents
+- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Eternals%20Lesson%204%20Summary%20%26%20Code.zip
 
 #### Summary Documents
 
