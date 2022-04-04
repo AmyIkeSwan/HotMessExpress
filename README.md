@@ -66,6 +66,7 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
 - Group: group number student was assigned to for TBL activities
 - TBL#_iRAT: score student earned on the Indivdiual Readiness Assurance Test (iRAT) for the specified TBL # (e.g., TBL1_iRAT = iRAT score for TBL 1)
 - TBL#_tRAT: score team earned on the Team Readiness Assurance Test (tRAT) for the specified TBL # (e.g., TBL1_tRAT = tRAT score for TBL 1). The score is the same for all team members on a Team
+- TBL#_RATdiff: difference score between the iRAT and tRAT for the TBL (tRAT-(iRAT*3)). The iRAT score has been multiplied by 3 so it is the same scale as the tRAT (iRAT was worth 5 points and tRAT was worth 15 points)
 - TBL#_TeamRating: sum total of the team-rated rubric for team performance during the TBL activity for the specified TBL # (e.g., TBL1_TeamRating = total score for team-rated rubric for TBL 1). Scale is 0-20.
 - TBL#_1_Engagement: Team-reported competency on Skill 1 - Engagement on the Team Rubric (scale 0-4)
 - TBL#_2_Conflict: Team-reported competency on Skill 2 - Conflict on the Team Rubric (scale 0-4)
