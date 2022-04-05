@@ -87,9 +87,13 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
 ### Lesson 1 Data Analysis Plan
 https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Lesson1_AnalysisPlanWksht.zip
 
-## Interpretations
+## Results
+### Data analysis completed in Python and R
+https://github.com/AmyIkeSwan/HotMessExpress/tree/main/data/2_Data_Analyses
 
 ## Presentation and Summary 
+### Presentation on Google Sheets
+
 
 ## Team Resources
 ### Resource for Updating README.md on GitHub
