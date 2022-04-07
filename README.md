@@ -93,7 +93,7 @@ https://github.com/AmyIkeSwan/HotMessExpress/tree/main/data/2_Data_Analyses
 
 ## Presentation and Summary 
 ### Presentation on Google Sheets
-
+https://docs.google.com/presentation/d/1cJ5B8aqDtcGnCHtd2hwXAbteYacIixa-/edit?usp=sharing&ouid=114080170415032720264&rtpof=true&sd=true
 
 ## Team Resources
 ### Resource for Updating README.md on GitHub
