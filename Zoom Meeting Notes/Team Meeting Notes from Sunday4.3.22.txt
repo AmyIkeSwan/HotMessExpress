@@ -1,0 +1,9 @@
+TEAM meeting Sunday 4/3/22
+List of things to chat about:
+done-@Destiny will create tonight  4/3 a Google Sheets Presentation beginning and link all of us via email addresses
+in progress-We will create a presentation keeping with our Hot Mess Express theme on readme (pink gray black, trains, train tracks etc.)
+We will discuss in future who is saying what when? 4/7?
+-Do we have the data visualizations Need-intro and extrovert scores per group,  Need- refine visuals with design and colors for presentation.
+DONE-Data Analysis/findings- will complete Tuesday @Brandy M Roane has updated kanban with data analysis info and will share examples for running for those that want to learn and run code themselves.
+Done-We will discuss 4/6 Wednesday 7pm CST analysis and plan extra zooms dates and times for the presentation maybe 4/8, 4/10, 4/12
+Amy-- will make this into a meeting notes doc and add it to git hub for readme if needed.
