@@ -1,4 +1,4 @@
-# HotMessExpress
+# The HotMess Express
 Group Final Project Repo
 
 ![This is an image](https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Final%20Presentation%20Documents/HotMessExpress.png)
@@ -20,10 +20,11 @@ https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Le
 https://github.com/AmyIkeSwan/HotMessExpress/projects/1
 
 ## Questions our Team will be addressing
-### Variables
-- Independent variable: cohort (3 cohorts: pre, during, and post COVID)
-- Dependent variables: Students engaged in 4 Team-Based Learning (TBL) activities during their first semester. Data from the first 3 TBLs will be used (iRAT scores, tRAT scores, Team Ratings on performance).
-- Covariate variables: self-reported data on introversion and extroversion will also be used as covariates. 
+### Quick snapshot of variables
+Complete list of variables can be found below under "Notes regarding final variables"
+- **Independent variable**: Cohort (3 cohorts: pre, during, and post COVID)
+- **Dependent variables**: Students engaged in 4 Team-Based Learning (TBL) activities during their first semester. Data from the first 3 TBLs will be used (iRAT scores, tRAT scores, Team Ratings on performance).
+- **Covariate variables**: Self-reported data on introversion and extroversion  
 
 ### Overall objective
 Determine if the pandemic and subsequent quarantine impacted the academic performance for medical science students.
@@ -52,36 +53,39 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
 
 ## Data Wrangling
 ### Inclusion/Exclusion criteria
-- Exclusion: Individuals who did not complete all three TBLs
-- Exclusion: Teams who did not complete TBLs 1 and 3 (for difference scores)
-- Exclusion: Students who did not complete the Introversion-Extroversion scale
+- **Inclusion**: Students enrolled in a medical science program during the 2019-2021 academic years
+- **Exclusion**: Students who did not complete the Introversion-Extroversion scale
+- **Exclusion**: Individuals who did not complete all three iRATs
+- **Exclusion**: Teams who did not complete all three tRATs
+- **Exclusion**: Teams who did not complete TBLs 1 and 3 Team Ratings (for difference scores)
 
 ### Notes regarding dropped data rows
 - Rows removed from dataset based on the above exclusion criteria
-- 
+- Specific details on dropped data rows are outlined in the "Data cleaning notes" section above
+
 ### Notes regarding final variables
-- UID: unique identification for each student
-- TeamUID: unique identification for each Team by Cohort (e.g., 201901 = Cohort 2019, Team 01)
-- Cohort: year student began the one-year program (2019, 2020, 2021)
-- Group: group number student was assigned to for TBL activities
-- TBL#_iRAT: score student earned on the Indivdiual Readiness Assurance Test (iRAT) for the specified TBL # (e.g., TBL1_iRAT = iRAT score for TBL 1)
-- TBL#_tRAT: score team earned on the Team Readiness Assurance Test (tRAT) for the specified TBL # (e.g., TBL1_tRAT = tRAT score for TBL 1). The score is the same for all team members on a Team
-- TBL#_RATdiff: difference score between the iRAT and tRAT for the TBL (tRAT-(iRAT*3)). The iRAT score has been multiplied by 3 so it is the same scale as the tRAT (iRAT was worth 5 points and tRAT was worth 15 points)
-- TBL#_TeamRating: sum total of the team-rated rubric for team performance during the TBL activity for the specified TBL # (e.g., TBL1_TeamRating = total score for team-rated rubric for TBL 1). Scale is 0-20.
-- TBL#_1_Engagement: Team-reported competency on Skill 1 - Engagement on the Team Rubric (scale 0-4)
-- TBL#_2_Conflict: Team-reported competency on Skill 2 - Conflict on the Team Rubric (scale 0-4)
-- TBL#_3_Roles: Team-reported competency on Skill 3 - Roles on the Team Rubric (scale 0-4)
-- TBL#_4_DecisionMkg: Team-reported competency on Skill 4 - Decision Making on the Team Rubric (scale 0-4)
-- TBL#_5_Planning: Team-reported competency on Skill 5 - Planning on the Team Rubric (scale 0-4)
-- TBL1_TBL3_diff: difference score between TBL1 and TBL 3 Team Ratings (TBL3 - TBL 1). Positive means increase in rating. Negative means decrease in rating.
-- TBL1_TBL3_#_diff: difference score between TBL1 and TBL 3 Team Ratings (TBL3 - TBL 1) for each of the 5 competency skills (Engagement, Conflict, Roles, Decision Making, and Planning). Positive means increase in rating. Negative means decrease in rating.
-- Sum_Introversion: total introversion score on the self-reported introversion-extroversion scale. Higher scores = greater introversion tendencies
-- Sum_Extroversion: total extroversion score on the self-reported introversion-extroversion scale. Higher scores = greater extroversion tendencies
-- Mean_Introversion: mean introversion score on the self-reported introversion-extroversion scale for each Team by Cohort. 
-- Mean_Extroversion: mean extroversion score on the self-reported introversion-extroversion scale for each Team by Cohort. 
+- **UID**: unique identification for each student
+- **TeamUID**: unique identification for each Team by Cohort (e.g., 201901 = Cohort 2019, Team 01)
+- **Cohort**: year student began the one-year program (2019, 2020, 2021)
+- **Group**: group number student was assigned to for TBL activities
+- **TBL#_iRAT**: score student earned on the Indivdiual Readiness Assurance Test (iRAT) for the specified TBL # (e.g., TBL1_iRAT = iRAT score for TBL 1)
+- **TBL#_tRAT**: score team earned on the Team Readiness Assurance Test (tRAT) for the specified TBL # (e.g., TBL1_tRAT = tRAT score for TBL 1). The score is the same for all team members on a Team
+- **TBL#_RATdiff**: difference score between the iRAT and tRAT for the TBL (tRAT-(iRAT*3)). The iRAT score has been multiplied by 3 so it is the same scale as the tRAT (iRAT was worth 5 points and tRAT was worth 15 points)
+- **TBL#_TeamRating**: sum total of the team-rated rubric for team performance during the TBL activity for the specified TBL # (e.g., TBL1_TeamRating = total score for team-rated rubric for TBL 1). Scale is 0-20.
+- **TBL#_1_Engagement**: Team-reported competency on Skill 1 - Engagement on the Team Rubric (scale 0-4)
+- **TBL#_2_Conflict**: Team-reported competency on Skill 2 - Conflict on the Team Rubric (scale 0-4)
+- **TBL#_3_Roles**: Team-reported competency on Skill 3 - Roles on the Team Rubric (scale 0-4)
+- **TBL#_4_DecisionMkg**: Team-reported competency on Skill 4 - Decision Making on the Team Rubric (scale 0-4)
+- **TBL#_5_Planning**: Team-reported competency on Skill 5 - Planning on the Team Rubric (scale 0-4)
+- **TBL1_TBL3_diff**: difference score between TBL1 and TBL 3 Team Ratings (TBL3 - TBL 1). Positive means increase in rating. Negative means decrease in rating.
+- **TBL1_TBL3_#_diff**: difference score between TBL1 and TBL 3 Team Ratings (TBL3 - TBL 1) for each of the 5 competency skills (Engagement, Conflict, Roles, Decision Making, and Planning). Positive means increase in rating. Negative means decrease in rating.
+- **Sum_Introversion**: total introversion score on the self-reported introversion-extroversion scale. Higher scores = greater introversion tendencies
+- **Sum_Extroversion**: total extroversion score on the self-reported introversion-extroversion scale. Higher scores = greater extroversion tendencies
+- **Mean_Introversion**: mean introversion score on the self-reported introversion-extroversion scale for each Team by Cohort. 
+- **Mean_Extroversion**: mean extroversion score on the self-reported introversion-extroversion scale for each Team by Cohort. 
 
 ## Data Visualization
-
+### Data visualizations completed in Python and Tableau
 
 ## Data Analyses
 ### Lesson 1 Data Analysis Plan
@@ -89,6 +93,7 @@ https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Le
 
 ## Results
 ### Data analysis completed in Python and R
+Syntax files for all Data Analyses are viewable in the file folder below
 https://github.com/AmyIkeSwan/HotMessExpress/tree/main/data/2_Data_Analyses
 
 ## Presentation and Summary 
@@ -147,7 +152,12 @@ https://unthsc.zoom.us/rec/share/DmmSsTrrPWvOHxVvlwmItWPAiFSfmUBoydqqbclRkln3VEi
 - https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/EternalsLesson5Materials.zip
 
 ### Week 7
-#### April 
+#### April 11, 2022
+
+#### Summary Documents
+
+### Week 7
+#### April 12, 2022
 
 #### Summary Documents
 
