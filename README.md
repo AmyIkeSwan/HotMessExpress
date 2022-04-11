@@ -1,4 +1,4 @@
-# The HotMess Express
+# The Hot Mess Express
 Group Final Project Repo
 
 ![This is an image](https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Final%20Presentation%20Documents/HotMessExpress.png)
