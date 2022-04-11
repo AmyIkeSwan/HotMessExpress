@@ -15,10 +15,10 @@ library("broom")
 library("tibble")
 
 ## importing dataset - final merged
-f2fmerged <-read.csv("C:/Users/Brandy/Documents/GitHub/HotMessExpress/users/brandy/2_DataAnalyses/f2fMerged_clean.csv")
+f2fmerged <-read.csv("C:/Users/Brandy/Documents/GitHub/HotMessExpress/users/brandy/2_Data_Analyses/f2fMerged_clean.csv")
 
 ## importing dataset - final merged - Team Ratings
-f2fTeamRatings <-read.csv("C:/Users/Brandy/Documents/GitHub/HotMessExpress/users/brandy/2_DataAnalyses/f2fTeamRatings_TBL1_TBL3_clean.csv")
+f2fTeamRatings <-read.csv("C:/Users/Brandy/Documents/GitHub/HotMessExpress/users/brandy/2_Data_Analyses/f2fTeamRatings_TBL1_TBL3_clean.csv")
 
 
 ############TBL 1 iRAT Scores
