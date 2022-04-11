@@ -1,7 +1,7 @@
 # HotMessExpress
 Group Final Project Repo
 
-![hot-mess-express2](https://user-images.githubusercontent.com/91350305/160309292-0efe3ed5-0505-4401-b1e6-e753d0372396.png)
+https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Final%20Presentation%20Documents/HotMessExpress.png
 
 ## Team Members
 - Samantha Diaz
@@ -141,9 +141,10 @@ https://unthsc.zoom.us/rec/share/F323t6dOGPrkEq_4vkXKEoahksGYasKs48O05bbGiGJBiuh
 See video walkthrough of the analyses and interpretation
 
 ### Week 6
-#### April  
-
+#### April 10, 2022
+https://unthsc.zoom.us/rec/share/DmmSsTrrPWvOHxVvlwmItWPAiFSfmUBoydqqbclRkln3VEixKNLHVjPQIYrUv0SS.XKUVuHxitPCWQwTf?startTime=1649635564000 (Passcode: 5!hT*iWY)
 #### Summary Documents
+- https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/EternalsLesson5Materials.zip
 
 ### Week 7
 #### April 
