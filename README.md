@@ -153,8 +153,10 @@ https://unthsc.zoom.us/rec/share/DmmSsTrrPWvOHxVvlwmItWPAiFSfmUBoydqqbclRkln3VEi
 
 ### Week 7
 #### April 11, 2022
+https://unthsc.zoom.us/rec/share/uN_OiEuSqeJXIoF5XUvahvFTvAYLPmIjh1B6oe5W-QkDS8QtlDiEq109J4Lql6g2.2TgeF-fQzLjCDpt-?startTime=1649722305000 (Passcode: e9AZx8y#)
 
 #### Summary Documents
+- NA
 
 ### Week 7
 #### April 12, 2022
