@@ -15,7 +15,7 @@ library("broom")
 library("tibble")
 
 ## importing dataset - final merged
-f2fmerged <-read.csv("C:/Users/Brandy/Documents/GitHub/HotMessExpress/users/brandy/2_Data_Analyses/f2fMerged_clean.csv")
+f2fmerged <-read.csv("C:/Users/Brandy/Documents/GitHub/HotMessExpress/1_Users/Brandy/2_Data_Analyses/f2fMerged_clean.csv")
 
 
 ############TBL 1 iRAT-tRAT difference Scores
