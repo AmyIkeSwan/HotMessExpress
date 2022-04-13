@@ -37,7 +37,7 @@ Did the pandemic and subsequent quarantine impact team academic performance for 
 Did the pandemic and subsequent quarantine impact team dynamics during academic activities for medical science students?
 
 ## Dataset(s)
-- Dataset is from graduate medical science students attending during the academic years 2019-2021.
+- Datasets are from graduate medical science students attending during the academic years 2019-2021.
 - Important note regarding raw dataset: 7999 = Legitimate Skip (data missing due to an excused absence)
 - Important note regarding raw dataset: 9999 = Missing (data missing due to failure to submit work)
 
@@ -49,7 +49,6 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
 - https://github.com/AmyIkeSwan/HotMessExpress/blob/main/data/1_Data_Clean/f2fMerged_clean.csv
 - https://github.com/AmyIkeSwan/HotMessExpress/blob/main/data/1_Data_Clean/f2fTeamRatings_TBL1_TBL3_clean.csv
 - https://github.com/AmyIkeSwan/HotMessExpress/blob/main/data/1_Data_Clean/f2fTeamRatings_allTBLs_clean.csv
-
 
 ## Data Wrangling
 ### Inclusion/Exclusion criteria
@@ -84,21 +83,22 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
 - **Mean_Introversion**: mean introversion score on the self-reported introversion-extroversion scale for each Team by Cohort. 
 - **Mean_Extroversion**: mean extroversion score on the self-reported introversion-extroversion scale for each Team by Cohort. 
 
-## Data Visualization
-### Data visualizations completed in Python and Tableau
-
-## Data Analyses
+## Data Analyses Plan
 ### Lesson 1 Data Analysis Plan
 https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Zoom%20Meeting%20Notes/Lesson%20Documents/Lesson1_AnalysisPlanWksht.zip
 
-## Results
+## Data Visualization
+### Data visualizations completed in Tableau and Python
+https://github.com/AmyIkeSwan/HotMessExpress/tree/main/data/2_Data_Analyses
+
+## Data Analysis and Results
 ### Data analysis completed in Python and R
 Syntax files for all Data Analyses are viewable in the file folder below
 https://github.com/AmyIkeSwan/HotMessExpress/tree/main/data/2_Data_Analyses
 
 ## Presentation and Summary 
-### Presentation time: ~25 minutes of our 30 minute timeslot
 ### Presentation on Google Sheets
+### Presentation time: ~25 minutes of our 30 minute timeslot
 https://docs.google.com/presentation/d/1cJ5B8aqDtcGnCHtd2hwXAbteYacIixa-/edit?usp=sharing&ouid=114080170415032720264&rtpof=true&sd=true
 
 ## Team Resources
@@ -153,6 +153,7 @@ https://unthsc.zoom.us/rec/share/DmmSsTrrPWvOHxVvlwmItWPAiFSfmUBoydqqbclRkln3VEi
 
 ### Week 7
 #### April 11, 2022
+Presentation practice run
 https://unthsc.zoom.us/rec/share/uN_OiEuSqeJXIoF5XUvahvFTvAYLPmIjh1B6oe5W-QkDS8QtlDiEq109J4Lql6g2.2TgeF-fQzLjCDpt-?startTime=1649722305000 (Passcode: e9AZx8y#)
 
 #### Summary Documents
@@ -160,8 +161,17 @@ https://unthsc.zoom.us/rec/share/uN_OiEuSqeJXIoF5XUvahvFTvAYLPmIjh1B6oe5W-QkDS8Q
 
 ### Week 7
 #### April 12, 2022
+Presentation practice run
+https://unthsc.zoom.us/rec/share/x7Ucu3F4yYoFw9opxMSg7HeYERv2gF1nVO-AcyHMq8kHSp_luURukEyeDTKQGrJ0.Js2tYYlbdxnrbZ1p?startTime=1649802856000 (Passcode: 39n%v!mj)
 
 #### Summary Documents
+- NA
+
+### Week 7
+#### April 13, 2022
+
+#### Summary Documents
+- NA
 
 ## Additional notes that don't fit above in a category
 ### Amy
