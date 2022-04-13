@@ -1,7 +1,7 @@
 # The Hot Mess Express
 Group Final Project Repo
 
-![This is an image](https://github.com/AmyIkeSwan/HotMessExpress/blob/main/Final%20Presentation%20Documents/HotMessExpress.png)
+![This is an image](https://github.com/AmyIkeSwan/HotMessExpress/blob/main/4_Final%20Presentation%20Documents/HotMessExpress.png)
 
 ## Team Members
 - Samantha Diaz
