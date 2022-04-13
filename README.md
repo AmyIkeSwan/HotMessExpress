@@ -104,6 +104,9 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
 ### Presentation time: ~25 minutes of our 30 minute timeslot
 https://docs.google.com/presentation/d/1cJ5B8aqDtcGnCHtd2hwXAbteYacIixa-/edit?usp=sharing&ouid=114080170415032720264&rtpof=true&sd=true
 
+### Presentation PDF
+https://github.com/AmyIkeSwan/HotMessExpress/blob/main/4_Final%20Presentation%20Documents/HotMessPPideas.pptx.zip
+
 ## Team Resources
 ### Resource for Updating README.md on GitHub
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links
