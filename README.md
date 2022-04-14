@@ -172,9 +172,9 @@ https://unthsc.zoom.us/rec/share/x7Ucu3F4yYoFw9opxMSg7HeYERv2gF1nVO-AcyHMq8kHSp_
 
 ### Week 7
 #### April 13, 2022
-
+https://unthsc.zoom.us/rec/share/x8CpWe1URpSmPpqhvjVUvauasV0wE3JD-q3P7zsnIeCGmQsO9g-6c70skxUg46M4.-cofoR-0Pwta4DHa?startTime=1649896239000 (Passcode: bxP!wR6Q)
 #### Summary Documents
-- NA
+- Presentation practice run
 
 ## Additional notes that don't fit above in a category
 ### Amy
