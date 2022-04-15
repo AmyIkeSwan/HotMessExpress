@@ -105,7 +105,7 @@ Did the pandemic and subsequent quarantine impact team dynamics during academic 
 https://docs.google.com/presentation/d/1cJ5B8aqDtcGnCHtd2hwXAbteYacIixa-/edit?usp=sharing&ouid=114080170415032720264&rtpof=true&sd=true
 
 ### Presentation PDF
-https://github.com/AmyIkeSwan/HotMessExpress/blob/main/4_Final%20Presentation%20Documents/HotMessPPideas.pptx.zip
+https://github.com/AmyIkeSwan/HotMessExpress/blob/main/4_Final%20Presentation%20Documents/HotMessExpressPresentation.pptx.zip
 
 ## Team Resources
 ### Resource for Updating README.md on GitHub
